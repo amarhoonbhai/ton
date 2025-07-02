@@ -1,8 +1,8 @@
 # config.py
 
 # Telegram API credentials
-api_id = 123456  # Replace with your own
-api_hash = 'your_api_hash_here'
+api_id = 21585498  # Replace with your own
+api_hash = '873031a00ca632c3c9750a18fa983687'
 
 # Session name
 session_name = 'gift_userbot_session'
