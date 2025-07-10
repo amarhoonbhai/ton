@@ -1,2 +1,2 @@
-BOT_TOKEN = 'your_bot_token_here'
+BOT_TOKEN = '7699253029:AAFly-kZPzdCaFQxpzxZYsy_hh6oJYlVkGU'
 CHANNEL_USERNAME = '@FragmentGiftUpdate'
