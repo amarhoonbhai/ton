@@ -1,6 +1,6 @@
 
 from telebot import TeleBot
-from bot_config import BOT_TOKEN, CHANNEL_USERNAME
+from config import BOT_TOKEN, CHANNEL_USERNAME
 
 bot = TeleBot(BOT_TOKEN, parse_mode='HTML')
 
